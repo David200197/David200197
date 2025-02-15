@@ -1,42 +1,45 @@
-# Hello! I'm David 👋
+# Hi, I'm David Alfonso Pereira! 👋
 
-I'm a **Fullstack Developer** with over 3 years of experience, proficient in various technologies, and a strong advocate for teamwork.
+I'm a **Fullstack Developer** with over **4 years of experience**, mastering various technologies and always embracing a **teamwork-oriented mindset**.
 
 ## 🚀 About Me
 
-- **Experience:** Over 3 years in Fullstack development.
-- **Skills:** Mastery of multiple technologies in web and mobile development.
-- **Collaboration:** Strong proponent of effective teamwork and collaboration.
+- 🎓 **Computer Engineer** (2016 - 2021) - Camilo Cienfuegos University of Matanzas, Cuba.
+- 💻 Passionate about **Frontend & Backend Development**.
+- 🚀 Skilled in building scalable and high-performance applications.
 
-## 🛠️ Featured Projects
+## 🛠️ Technologies I Work With
 
-Here are some of my most notable projects:
+### **Frontend**
+- JavaScript, TypeScript
+- HTML, CSS, Tailwind, Material-UI
+- React, Next.js
+- Plasmo, Capacitor
 
-### [Nova.js](https://github.com/David200197/nova.js)
+### **Backend**
+- Node.js, Express.js, Nest.js, Adonis.js
+- GraphQL, Apollo
 
-A library to create components in React differently.
+## 💼 Work Experience
 
-- **Technologies:** TypeScript
-- **Description:** Simplifies the creation and management of components in React applications.
+### **Frontend Developer**
+- 🏢 **Teigee** _(Feb 2023 - Jan 2024)_
+- 🏢 **Leiizy** _(Feb 2023 - Jan 2024)_
+- 🏢 **IBX Exchange** _(Mar 2024 - Present)_
+- 🏢 **Shell Condo** _(Nov 2024 - Present)_
 
-### [Personal Portfolio](https://github.com/David200197/david-portafolio)
+### **Backend Developer**
+- 🏢 **Eneldo Laboral** _(Nov 2023 - Present)_
+- 🏢 **Construccions Precises** _(Jan 2024 - Present)_
 
-My personal website showcasing my projects and skills.
+## 📫 Connect With Me
+- 🌍 **Portfolio:** [david200197.github.io/david-portafolio](https://david200197.github.io/david-portafolio)
+- 💼 **LinkedIn:** [David Alfonso Pereira](https://www.linkedin.com/in/david-alfonso-pereira-40b350253/)
+- 🧑‍💻 **GitHub:** [David200197](https://github.com/David200197)
+- 📩 **Email:** [david.alfonso999999@gmail.com](mailto:david.alfonso999999@gmail.com)
+- 💬 **Telegram:** [@Dafoneira](https://t.me/Dafoneira)
+- 📱 **WhatsApp:** [Contact Me](https://wa.me/qr/ETYTO7EVAJT6F1)
 
-- **Technologies:** TypeScript, HTML, CSS
-- **Description:** An interactive portfolio reflecting my career and completed works.
+---
 
-### [E-commerce Test](https://github.com/David200197/e-commerce-test)
-
-A test project for an e-commerce platform.
-
-- **Technologies:** TypeScript
-- **Description:** Implementation of key functionalities for an e-commerce site.
-
-## 📫 Contact Me
-
-- **Portfolio:** [david200197.github.io/david-portafolio](https://david200197.github.io/david-portafolio/)
-- **LinkedIn:** [linkedin.com/in/david-alfonso-pereira-40b350253](https://www.linkedin.com/in/david-alfonso-pereira-40b350253)
-- **Telegram:** [@Dafoneira](https://t.me/Dafoneira)
-
-Feel free to reach out for interesting collaborations or just to connect!
+Feel free to connect with me and collaborate on exciting projects! 🚀
