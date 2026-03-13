@@ -42,7 +42,7 @@ I'm a **Fullstack Developer** with over **4 years of experience**, mastering var
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=David200197&theme=merko)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David200197)](https://github.com/David200197/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David200197&show_icons=true&theme=radical)
 ---
 
 Feel free to connect with me and collaborate on exciting projects! 🚀
