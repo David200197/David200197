@@ -40,9 +40,12 @@ I'm a **Fullstack Developer** with over **4 years of experience**, mastering var
 - 💬 **Telegram:** [@Dafoneira](https://t.me/Dafoneira)
 - 📱 **WhatsApp:** [Contact Me](https://wa.me/qr/ETYTO7EVAJT6F1)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=David200197&theme=merko)](https://git.io/streak-stats)
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=David200197&theme=merko)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David200197&show_icons=true&theme=merko)
+
+</div>
 ---
 
 Feel free to connect with me and collaborate on exciting projects! 🚀
