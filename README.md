@@ -1,51 +1,71 @@
-# Hi, I'm David! 👋
+<div align="center">
+  <h1>Hi, I'm David Alfonso 👋</h1>
+  <p>
+    <strong>Fullstack Developer</strong> · 4+ years of experience · Teamwork-oriented mindset
+  </p>
+  <p>
+    <a href="https://david200197.github.io/david-portafolio">🌍 Portfolio</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/david-alfonso-pereira-40b350253/">💼 LinkedIn</a> &nbsp;·&nbsp;
+    <a href="https://github.com/David200197">🧑‍💻 GitHub</a> &nbsp;·&nbsp;
+    <a href="mailto:david.alfonso999999@gmail.com">📩 Email</a> &nbsp;·&nbsp;
+    <a href="https://t.me/Dafoneira">💬 Telegram</a> &nbsp;·&nbsp;
+    <a href="https://wa.me/qr/ETYTO7EVAJT6F1">📱 WhatsApp</a>
+  </p>
+</div>
 
-I'm a **Fullstack Developer** with over **4 years of experience**, mastering various technologies and always embracing a **teamwork-oriented mindset**.
+---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 **Computer Engineer** (2016 - 2021) - Camilo Cienfuegos University of Matanzas, Cuba.
-- 💻 Passionate about **Frontend & Backend Development**.
-- 🚀 Skilled in building scalable and high-performance applications.
+Computer Engineer graduated from Universidad de Matanzas (2021), passionate about building **scalable and high-performance applications**. I enjoy working across the full stack and thrive in collaborative, fast-paced environments.
 
-## 🛠️ Technologies I Work With
+---
 
-### **Frontend**
-- JavaScript, TypeScript
-- HTML, CSS, Tailwind, Material-UI
-- React, Next.js
-- Plasmo, Capacitor
+## 🛠️ Tech Stack
 
-### **Backend**
-- Node.js, Express.js, Nest.js, Adonis.js
-- GraphQL, Apollo
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
+
+---
 
 ## 💼 Work Experience
 
-### **Frontend Developer**
-- 🏢 **Teigee** _(Feb 2023 - Jan 2024)_
-- 🏢 **Leiizy** _(Feb 2023 - Jan 2024)_
-- 🏢 **IBX Exchange** _(Mar 2024 - Present)_
-- 🏢 **Shell Condo** _(Nov 2024 - Present)_
+| Role | Company | Period |
+|---|---|---|
+| Frontend Developer | **IBX Exchange** | Mar 2024 – Present |
+| Frontend Developer | **Shell Condo** | Nov 2024 – Present |
+| Backend Developer | **Eneldo Laboral** | Nov 2023 – Present |
+| Backend Developer | **Construccions Precises** | Jan 2024 – Present |
+| Frontend Developer | **Leiizy** | Feb 2023 – Jan 2024 |
+| Frontend Developer | **Teigee** | Feb 2023 – Jan 2024 |
 
-### **Backend Developer**
-- 🏢 **Eneldo Laboral** _(Nov 2023 - Present)_
-- 🏢 **Construccions Precises** _(Jan 2024 - Present)_
+---
 
-## 📫 Connect With Me
-- 🌍 **Portfolio:** [david200197.github.io/david-portafolio](https://david200197.github.io/david-portafolio)
-- 💼 **LinkedIn:** [David Alfonso Pereira](https://www.linkedin.com/in/david-alfonso-pereira-40b350253/)
-- 🧑‍💻 **GitHub:** [David200197](https://github.com/David200197)
-- 📩 **Email:** [david.alfonso999999@gmail.com](mailto:david.alfonso999999@gmail.com)
-- 💬 **Telegram:** [@Dafoneira](https://t.me/Dafoneira)
-- 📱 **WhatsApp:** [Contact Me](https://wa.me/qr/ETYTO7EVAJT6F1)
+## 📊 GitHub Stats
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=David200197&theme=merko)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David200197&show_icons=true&theme=merko)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David200197&show_icons=true&theme=merko)
 
 </div>
+
 ---
 
-Feel free to connect with me and collaborate on exciting projects! 🚀
+<div align="center">
+  <i>Open to exciting projects and collaborations. Feel free to reach out! 🚀</i>
+</div>
