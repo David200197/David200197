@@ -60,8 +60,6 @@ Computer Engineer graduated from Universidad de Matanzas (2021), passionate abou
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=David200197&theme=merko)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David200197&show_icons=true&theme=merko)
-
 </div>
 
 ---
